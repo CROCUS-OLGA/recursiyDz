@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\bin\Debug\net7.0\рекурсия_дз.exe
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\bin\Debug\net7.0\рекурсия_дз.deps.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\bin\Debug\net7.0\рекурсия_дз.runtimeconfig.json
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\bin\Debug\net7.0\рекурсия_дз.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\bin\Debug\net7.0\рекурсия_дз.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\рекурсия_дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\рекурсия_дз.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\рекурсия_дз.AssemblyInfo.cs
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\рекурсия_дз.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\рекурсия_дз.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\refint\рекурсия_дз.dll
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\рекурсия_дз.pdb
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\рекурсия_дз.genruntimeconfig.cache
+C:\Users\user\Desktop\дз по C#\знакомство с яп\рекурсия_дз\obj\Debug\net7.0\ref\рекурсия_дз.dll

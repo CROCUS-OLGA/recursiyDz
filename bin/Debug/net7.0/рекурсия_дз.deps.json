@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "рекурсия_дз/1.0.0": {
+        "runtime": {
+          "рекурсия_дз.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "рекурсия_дз/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
